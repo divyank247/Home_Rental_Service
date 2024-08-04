@@ -10,4 +10,4 @@ Welcome to Dream Nest, a comprehensive Full Stack Home Rentals Application built
 * Redux State Management: Manage global state efficiently using Redux.
 * Responsive Design: Built with Material UI and Sass (SCSS) for a modern and responsive UI.
 ### Live Demo:
-You can view a live demo of the application [here](divyanshu247.netlify.app/).
+You can view a live demo of the application [here](https://divyanshu247.netlify.app/).
